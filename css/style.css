@@ -1,0 +1,25 @@
+header {
+    padding-top: 0.5em;
+}
+
+main {
+    padding:0px 1.5em 0px 1.5em;
+}
+nav .container-fluid .navbar-brand{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: black;
+}
+nav ul .nav-item a{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: black;
+}
+main .card img {
+    height: 70%;
+}
+footer{
+    padding-right:.5em;
+    padding-bottom: 1em;
+}
+footer form button .btn btn-primary {
+    background-color: rgb(2, 2, 78);
+}
